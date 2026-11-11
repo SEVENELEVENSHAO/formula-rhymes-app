@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-pages/
+test-results/
+*.tsbuildinfo
+work/
+Separated EPUBs/
+*.epub
+*.zip
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
